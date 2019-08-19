@@ -1,0 +1,24 @@
+{
+  "editor.fontFamily": "'Operator Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "ƒ - Oceanic",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#333333",
+    "editor.selectionHighlightBackground": "#222222",
+    "sideBar.border": "#222222"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "breadcrumbs.enabled": true,
+  "terminal.integrated.shell.osx": "zsh",
+  "gitlens.codeLens.enabled": false,
+  "explorer.confirmDelete": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.eslintIntegration": true,
+  "turboConsoleLog.logMessagePrefix": "Log",
+  "turboConsoleLog.quote": "'"
+}
