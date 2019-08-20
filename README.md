@@ -19,10 +19,13 @@ Elusive settings, safely stored in one place
 - [ ] Copy user settings from `settings.json`
 - [ ] Add extensions from `extensions.md`
 
-# Xcode
+## Apps
 
-- [ ] Install [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
-- [ ] Install [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
+- [ ] [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
+- [ ] [Android Studio](https://developer.android.com/studio)
+- [ ] [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
+- [ ] [Spectacle](https://www.spectacleapp.com)
+- [ ] [Slack](https://slack.com)
 
 ## Chrome Extensions
 
