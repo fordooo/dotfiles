@@ -18,6 +18,7 @@ Elusive settings, safely stored in one place
 - [ ] Install font `Operator Mono`
 - [ ] Copy user settings from `settings.json`
 - [ ] Add extensions from `extensions.md`
+- [ ] Color theme: Fantastic (Oceanic) by dobbbri
 
 ## Apps
 
