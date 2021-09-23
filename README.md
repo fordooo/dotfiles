@@ -10,7 +10,7 @@ Elusive settings, safely stored in one place
 - [ ] Install [z](https://github.com/rupa/z)
 - [ ] Install [Node.js](https://nodejs.org/en/) and [nvm](https://github.com/nvm-sh/nvm)
 - [ ] Copy `.zshrc` to `~/.zshrc`
-- [ ] Install lolcat, cowsay, cmatrix, tree
+- [ ] Install fun terminal stuff: cowsay, lolcat, cmatrix, tree, etc.
 
 ## VS Code
 
@@ -23,8 +23,6 @@ Elusive settings, safely stored in one place
 ## Apps
 
 - [ ] [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
-- [ ] [Android Studio](https://developer.android.com/studio)
-- [ ] [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
 - [ ] [Spectacle](https://www.spectacleapp.com)
 - [ ] [Slack](https://slack.com)
 
@@ -40,5 +38,5 @@ Elusive settings, safely stored in one place
 - [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe)
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd)
-- [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 - [Open SEO Stats](https://chrome.google.com/webstore/detail/open-seo-statsformerly-pa/hbdkkfheckcdppiaiabobmennhijkknn)
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
